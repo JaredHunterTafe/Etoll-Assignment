@@ -1,0 +1,33 @@
+[
+    {
+        "accountNumber": 1,
+        "customer": {
+            "firstName": "Pat",
+            "lastName": "Jackson",
+            "companyName": "Postman Pat"
+        },
+        "accountType": "Easy Toll",
+        "tagAmount": 2,
+        "topUpAmount": 80,
+        "contactNumbers": {
+            "businessHours": "4201 8953",
+            "afterBusinessHours": "6942 0321",
+            "mobile": "0420 235 895"
+        }
+    },    {
+        "accountNumber": 2,
+        "customer": {
+            "firstName": "Jack",
+            "lastName": "Patson",
+            "companyName": "yeet inc"
+        },
+        "accountType": "E-Toll",
+        "tagAmount": 1,
+        "topUpAmount": 40,
+        "contactNumbers": {
+            "businessHours": "8953 4201",
+            "afterBusinessHours": "4206 9852",
+            "mobile": "0420 100 895"
+        }
+    }
+]
